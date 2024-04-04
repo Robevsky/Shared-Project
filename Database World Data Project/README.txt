@@ -1,5 +1,8 @@
 We we.
 
+In questo link c'è un sito che permette di scaricare la cartella di GitHub incollando l'url:
+https://download-directory.github.io/
+
 Nella cartella database c'è il database completo che ho utilizzato per fare questo test pratico.
 Spero riusciate a caricarlo nei vostri programmi, l'estensione del file è .sql.
 
